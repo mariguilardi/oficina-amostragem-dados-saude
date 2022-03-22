@@ -1,0 +1,304 @@
+nome,idade,genero,dp,par,col,glc,repecg,maxfc,angex,pian,incl,vp,tal,alvo
+Wellington de Brito Banhos,63,masc,3,145,233,1,0,150,0,2.3,0,0,1,1
+Mário Jesus da Graça,37,masc,2,130,250,0,1,187,0,3.5,0,0,2,1
+Maria Lígia de Barbosa,41,fem,1,130,204,0,0,172,0,1.4,2,0,2,1
+Laerte Ciro de Guimarães,56,masc,1,120,236,0,1,178,0,0.8,2,0,2,1
+Graziele Terezinha Zupipa,57,fem,0,120,354,0,1,163,1,0.6,2,0,2,1
+Cléber de Lisboa,57,masc,0,140,192,0,1,148,0,0.4,1,0,1,1
+Mirela Nizanison,56,fem,1,140,294,0,0,153,0,1.3,1,0,2,1
+Moisés de Jesus,44,masc,1,120,263,0,1,173,0,0.0,2,0,3,1
+Edson Jonathas do Amaral Torres,52,masc,2,172,199,1,1,162,0,0.5,2,0,3,1
+João Mateus dos Santos,57,masc,2,150,168,0,1,174,0,1.6,2,0,2,1
+Robert Ezequiel Prepi de Paranhos,54,masc,0,140,239,0,1,160,0,1.2,2,0,2,1
+Amanda Cibele de Lacerda,48,fem,2,130,275,0,1,139,0,0.2,2,0,2,1
+Pedro Mateus de Martins,49,masc,1,130,266,0,1,171,0,0.6,2,0,2,1
+Josiel de Pereira do Espírito Santo Júnior,64,masc,3,110,211,0,0,144,1,1.8,1,0,2,1
+Bruna Helena da Paraíba,58,fem,3,150,283,1,0,162,0,1.0,2,0,2,1
+Lili Tagi de Pinheiro da Silva,50,fem,2,120,219,0,1,158,0,1.6,1,0,2,1
+Evelyn Talita de Figueiredo,58,fem,2,120,340,0,1,172,0,0.0,2,0,2,1
+Samara Jandira Jangada Iliman de Souza,66,fem,3,150,226,0,1,114,0,2.6,0,0,2,1
+Hildebrando Áureo Lalon,43,masc,0,150,247,0,1,171,0,1.5,2,0,2,1
+Joyce Genir de Soares,69,fem,3,140,239,0,1,151,0,1.8,2,2,2,1
+Simão de Cerqueira,59,masc,0,135,234,0,1,161,0,0.5,1,0,3,1
+Antônio Rodrigo de Sobral,44,masc,2,130,233,0,1,179,1,0.4,2,0,2,1
+Altair da Silva,42,masc,0,140,226,0,1,178,0,0.0,2,0,2,1
+Omar Idrorevic de Oliveira da Silva,61,masc,2,150,243,1,1,137,1,1.0,1,0,2,1
+Edson Marciano Valente,40,masc,3,140,199,0,1,178,1,1.4,2,0,3,1
+Cibele Eunice Naves de Malta,71,fem,1,160,302,0,1,162,0,0.4,2,2,2,1
+Ricardo Manoel de Toledo Fotrylimfresman,59,masc,2,150,212,1,1,157,0,1.6,2,0,2,1
+Wally de Alves,51,masc,2,110,175,0,1,123,0,0.6,2,0,2,1
+Patrícia Herrera Duque,65,fem,2,140,417,1,0,157,0,0.8,2,1,2,1
+Benjamin Rafael Frias da Luz,53,masc,2,130,197,1,0,152,0,1.2,0,0,2,1
+Eunice Nicole Aoman da Silva,41,fem,1,105,198,0,1,168,0,0.0,2,1,2,1
+Willian de Alencar,65,masc,0,120,177,0,1,140,0,0.4,2,0,3,1
+Damião Albano de Freitas Terceiro,44,masc,1,130,219,0,0,188,0,0.0,2,0,2,1
+Josiel de Lins das Neves,54,masc,2,125,273,0,0,152,0,0.5,0,1,2,1
+Milton Gena Zuzfe dos Santos,51,masc,3,125,213,0,0,125,1,1.4,2,1,2,1
+Jéssica Luciana de Bezerra Fenonehon,46,fem,2,142,177,0,0,160,1,1.4,0,0,2,1
+Milene da Silva de Barbosa,54,fem,2,135,304,1,1,170,0,0.0,2,0,2,1
+Aloísio de Bueno,54,masc,2,150,232,0,0,165,0,1.6,2,0,3,1
+Vânia de Madureira,65,fem,2,155,269,0,1,148,0,0.8,2,0,2,1
+Márcia Paula da Costa,65,fem,2,160,360,0,0,151,0,0.8,2,0,2,1
+Karina Leflaman de Arantes,51,fem,2,140,308,0,0,142,0,1.5,2,1,2,1
+Otto Rodrigo Mercado,48,masc,1,130,245,0,0,180,0,0.2,1,0,2,1
+Ângelo Dionísio de Uchôa Gonopu Banhos,45,masc,0,104,208,0,0,148,1,3.0,1,0,2,1
+Rute dos Santos de Barbosa Favli,53,fem,0,130,264,0,0,143,0,0.4,1,0,2,1
+Arthur de Alcântara,39,masc,2,140,321,0,0,182,0,0.0,2,0,2,1
+Silvair Fria,52,masc,1,120,325,0,1,172,0,0.2,2,0,2,1
+Ângelo de Sampaio Bahia,44,masc,2,140,235,0,0,180,0,0.0,2,0,2,1
+Xerxes Jonathan de Peixoto,47,masc,2,138,257,0,0,156,0,0.0,2,0,2,1
+Cláudia Duoman,53,fem,2,128,216,0,0,115,0,0.0,2,0,0,1
+Eleonora da Silva,53,fem,0,138,234,0,0,160,0,0.0,2,0,2,1
+Walderice de Lemes,51,fem,2,130,256,0,0,149,0,0.5,2,0,2,1
+Karl Guilherme da Silva Mene,66,masc,0,120,302,0,0,151,0,0.4,1,0,2,1
+Pablo Lopes,62,masc,2,130,231,0,1,146,0,1.8,1,3,3,1
+Suzana Naves Sehaga de Cerqueira,44,fem,2,108,141,0,1,175,0,0.6,1,0,2,1
+Josiane do Piauí da Mata,63,fem,2,135,252,0,0,172,0,0.0,2,0,2,1
+Roberto Ieuman Dehaze da Silva,52,masc,1,134,201,0,1,158,0,0.8,2,1,2,1
+Cirilo Israel de Munhoz,48,masc,0,122,222,0,0,186,0,0.0,2,0,2,1
+Félix de Viana,45,masc,0,115,260,0,0,185,0,0.0,2,0,2,1
+Fabiano da Graça Minomeyu,34,masc,3,118,182,0,0,174,0,0.0,2,0,2,1
+Berenice de Barros,57,fem,0,128,303,0,0,159,0,0.0,2,1,2,1
+Dina Fopuão,71,fem,2,110,265,1,0,130,0,0.0,2,1,2,1
+Luiz Lúcio Fragoso,54,masc,1,108,309,0,1,156,0,0.0,2,0,3,1
+Zeca Sandro Giku de Bezerra,52,masc,3,118,186,0,0,190,0,0.0,1,0,1,1
+Eric Luciano Ieinim Neto,41,masc,1,135,203,0,1,132,0,0.0,1,0,1,1
+Décio Wilson Chuquiz,58,masc,2,140,211,1,0,165,0,0.0,2,0,2,1
+Érica Lívia de Arantes,35,fem,0,138,183,0,1,182,0,1.4,2,0,2,1
+Armando Uoão da Serra,51,masc,2,100,222,0,1,143,1,1.2,1,0,2,1
+Fernanda Ísis de Gonçalves Glolgal,45,fem,1,130,234,0,0,175,0,0.6,1,0,2,1
+Humberto Bruno da Silva,44,masc,1,120,220,0,1,170,0,0.0,2,0,2,1
+Zara Josilda Vizyditi,62,fem,0,124,209,0,1,163,0,0.0,2,0,2,1
+Aécio Josiel Emeal,54,masc,2,120,258,0,0,147,0,0.4,1,0,3,1
+Martinho do Maranhão,51,masc,2,94,227,0,1,154,1,0.0,2,1,3,1
+Juan José Ximenes,29,masc,1,130,204,0,0,202,0,0.0,2,0,2,1
+Willian Mamunabo Júnior,51,masc,0,140,261,0,0,186,1,0.0,2,0,2,1
+Paula Eva de Madureira,43,fem,2,122,213,0,1,165,0,0.2,1,0,2,1
+Walderice Selena Weiss de Padilha,55,fem,1,135,250,0,0,161,0,1.4,1,0,2,1
+Cícero de Magalhães Chepomoão,51,masc,2,125,245,1,0,166,0,2.4,1,0,2,1
+Eric de Moura,59,masc,1,140,221,0,1,164,1,0.0,2,0,2,1
+Altair Jesus Trolto Nivre da Silva,52,masc,1,128,205,1,1,184,0,0.0,2,0,2,1
+Roberval Otávio dos Santos Veauan,58,masc,2,105,240,0,0,154,1,0.6,1,0,3,1
+Otaviano Isac de Souza Feretoppin Prates,41,masc,2,112,250,0,1,179,0,0.0,2,0,2,1
+Laerte de Freitas,45,masc,1,128,308,0,0,170,0,0.0,2,0,2,1
+Sara de Miranda,60,fem,2,102,318,0,1,160,0,0.0,2,1,2,1
+Saulo Ohi,52,masc,3,152,298,1,1,178,0,1.2,1,0,3,1
+Arilda dos Santos de Amorim,42,fem,0,102,265,0,0,122,0,0.6,1,0,2,1
+Manuela de Lima,67,fem,2,115,564,0,0,160,0,1.6,1,0,3,1
+Heitor Elano Oern Terceiro,68,masc,2,118,277,0,1,151,0,1.0,2,1,3,1
+Victor Ciro Gomes,46,masc,1,101,197,1,1,156,0,0.0,2,0,3,1
+Fabiana de Figueira Vupidrezov,54,fem,2,110,214,0,1,158,0,1.6,1,0,2,1
+Celina Vaz,58,fem,0,100,248,0,0,122,0,1.0,1,0,2,1
+Ademar Aloísio Enzoson de Ferraz,48,masc,2,124,255,1,1,175,0,0.0,2,2,2,1
+João de Sobral,57,masc,0,132,207,0,1,168,1,0.0,2,0,3,1
+Albano Estrada,52,masc,2,138,223,0,1,169,0,0.0,2,4,2,1
+Nayara Vrova,54,fem,1,132,288,1,0,159,1,0.0,2,1,2,1
+Larissa Tábata de Pereira da Mata Terceiro,45,fem,1,112,160,0,1,138,0,0.0,1,0,2,1
+Alessandre Nore Mercado,53,masc,0,142,226,0,0,111,1,0.0,2,0,3,1
+Amanda Diana Olnasiam de Pascoal,62,fem,0,140,394,0,0,157,0,1.2,1,0,2,1
+Mike de Oliveira Júnior,52,masc,0,108,233,1,1,147,0,0.1,2,3,3,1
+Diogo Seomã Fragoso de Azevedo,43,masc,2,130,315,0,1,162,0,1.9,2,1,2,1
+Rogério Milani,53,masc,2,130,246,1,0,173,0,0.0,2,3,2,1
+Ivan de Gimenes,42,masc,3,148,244,0,0,178,0,0.8,2,2,2,1
+José Otrius,59,masc,3,178,270,0,0,145,0,4.2,0,0,3,1
+Carolina Castelo Deuyz,63,fem,1,140,195,0,1,179,0,0.0,2,2,2,1
+Gilmar Ricardo de Santo Antônio Júnior,42,masc,2,120,240,1,1,194,0,0.8,0,0,3,1
+Jorge Geraldo de Salgado Júnior,50,masc,2,129,196,0,1,163,0,0.0,2,0,2,1
+Cármen de Oliveira,68,fem,2,120,211,0,0,115,0,1.5,1,0,2,1
+Wally Imtlel Linozemã,69,masc,3,160,234,1,0,131,0,0.1,1,1,2,1
+Vera Ingrid Defili de Vasconcelos,45,fem,0,138,236,0,0,152,1,0.2,1,0,2,1
+Cristina da Silva Naves,50,fem,1,120,244,0,1,162,0,1.1,2,0,2,1
+Rosilda da Cunha,50,fem,0,110,254,0,0,159,0,0.0,2,0,2,1
+Albina de Paiva,64,fem,0,180,325,0,1,154,1,0.0,2,0,2,1
+Heitor Jean Sumasu de Barbosa,57,masc,2,150,126,1,1,173,0,0.2,2,1,3,1
+Maria Wazuese,64,fem,2,140,313,0,1,133,0,0.2,2,0,3,1
+Fábio Abílio de Vargas,43,masc,0,110,211,0,1,161,0,0.0,2,0,3,1
+Igor Tiago Vacaskuiman,55,masc,1,130,262,0,1,155,0,0.0,2,0,2,1
+Raquel de Malta,37,fem,2,120,215,0,1,170,0,0.0,2,0,2,1
+Hamilton do Maranhão,41,masc,2,130,214,0,0,168,0,2.0,1,0,2,1
+Ronaldo Altino Borba,56,masc,3,120,193,0,0,162,0,1.9,1,0,3,1
+Valéria Bella de Almeida,46,fem,1,105,204,0,1,172,0,0.0,2,0,2,1
+Suzana da Silva Terceiro,46,fem,0,138,243,0,0,152,1,0.0,1,0,2,1
+Celeste Fadim de Muniz,64,fem,0,130,303,0,1,122,0,2.0,1,2,2,1
+Aurélio Mateus do Maranhão Sanches,59,masc,0,138,271,0,0,182,0,0.0,2,0,2,1
+Leonara Otávia Gomes da Cruz,41,fem,2,112,268,0,0,172,1,0.0,2,0,2,1
+Kiara Genir de Pereira,54,fem,2,108,267,0,0,167,0,0.0,2,0,2,1
+Marcela dos Santos da Silva,39,fem,2,94,199,0,1,179,0,0.0,2,0,2,1
+Isabel da Silva,34,fem,1,118,210,0,1,192,0,0.7,2,0,2,1
+Mateus Pinhão,47,masc,0,112,204,0,1,143,0,0.1,2,0,2,1
+Melanie Luzimara da Graça de Noronha,67,fem,2,152,277,0,1,172,0,0.0,2,1,2,1
+Charlene de Souza Pinhão,52,fem,2,136,196,0,0,169,0,0.1,1,0,2,1
+Gislaine Soraya da Cruz,74,fem,1,120,269,0,0,121,1,0.2,2,1,2,1
+Flávia Gilmara Igreja do Maranhão,54,fem,2,160,201,0,1,163,0,0.0,2,1,2,1
+Rosana Rose de Campos Pinto,49,fem,1,134,271,0,1,162,0,0.0,1,0,2,1
+Leo de Peres,42,masc,1,120,295,0,1,162,0,0.0,2,0,2,1
+Milton Altair do Maranhão,41,masc,1,110,235,0,1,153,0,0.0,2,0,2,1
+Carla dos Santos,41,fem,1,126,306,0,1,163,0,0.0,2,0,2,1
+Marciane Rosana de Tavares Fyrnaer Ceos,49,fem,0,130,269,0,1,163,0,0.0,2,0,2,1
+Arilda Albina Bosuna de Madureira,60,fem,2,120,178,1,1,96,0,0.0,2,0,2,1
+Cléber de Pacheco do Rio Cona Júnior,62,masc,1,128,208,1,0,140,0,0.0,2,0,2,1
+Rodolfo Adriano de Pereira,57,masc,0,110,201,0,1,126,1,1.5,1,0,1,1
+Ezequiel Lúcio de Mello Gomes,64,masc,0,128,263,0,1,105,1,0.2,1,1,3,1
+Úrsula de Matos,51,fem,2,120,295,0,0,157,0,0.6,2,0,2,1
+David Ali Toga,43,masc,0,115,303,0,1,181,0,1.2,1,0,2,1
+Suzana Paula da Silva Moreno Ieto,42,fem,2,120,209,0,1,173,0,0.0,1,0,2,1
+Renata de Figueiredo,67,fem,0,106,223,0,1,142,0,0.3,2,2,2,1
+Edilene Borba de Garcia,76,fem,2,140,197,0,2,116,0,1.1,1,0,2,1
+César Elano Ginaer Dovei,70,masc,1,156,245,0,0,143,0,0.0,2,0,2,1
+Ângela Aparecida da Silva Azornki,44,fem,2,118,242,0,1,149,0,0.3,1,1,2,1
+Marli Guiomar Chocyson,60,fem,3,150,240,0,1,171,0,0.9,2,0,2,1
+Dário de Miranda da Cunha,44,masc,2,120,226,0,1,169,0,0.0,2,0,2,1
+Wesley Junior de Toledo Estrada,42,masc,2,130,180,0,1,150,0,0.0,2,0,2,1
+Humberto Márcio Bobozman,66,masc,0,160,228,0,0,138,0,2.3,2,0,1,1
+Luara Leila de Noronha,71,fem,0,112,149,0,1,125,0,1.6,1,0,2,1
+Sérgio Max da Silva Terceiro,64,masc,3,170,227,0,0,155,0,0.6,1,0,3,1
+Keyla Guzbri,66,fem,2,146,278,0,0,152,0,0.0,1,1,2,1
+Jandira Quitéria Trevisan Ianã,39,fem,2,138,220,0,1,152,0,0.0,1,0,2,1
+Paula de Fraga Broda Fontes,58,fem,0,130,197,0,1,131,0,0.6,1,0,2,1
+Armando Bahia da Silva,47,masc,2,130,253,0,1,179,0,0.0,2,0,2,1
+Nivaldo Moisés Jardim Cavalcante Tozo,35,masc,1,122,192,0,1,174,0,0.0,2,0,2,1
+Reginaldo José de Pereira Izalvic da Silva,58,masc,1,125,220,0,1,144,0,0.4,1,4,3,1
+Max Benu Tizdonov,56,masc,1,130,221,0,0,163,0,0.0,2,0,3,1
+Ciro Quico Souto,56,masc,1,120,240,0,1,169,0,0.0,0,0,2,1
+Luzinete Laís da Silva,55,fem,1,132,342,0,1,166,0,1.2,2,0,2,1
+Elói Ernshiual da Silva,41,masc,1,120,157,0,1,182,0,0.0,2,0,2,1
+David Eugênio de Paiva da Mata,38,masc,2,138,175,0,1,173,0,0.0,2,4,2,1
+Wilson de Ferreira,38,masc,2,138,175,0,1,173,0,0.0,2,4,2,1
+Nathan Fred de Souza,67,masc,0,160,286,0,0,108,1,1.5,1,3,2,0
+Anakin Arthur Semamov,67,masc,0,120,229,0,0,129,1,2.6,1,2,3,0
+Maísa Pagolvic Aiman,62,fem,0,140,268,0,0,160,0,3.6,0,2,2,0
+Baltazar Romildo do Vale,63,masc,0,130,254,0,0,147,0,1.4,1,1,3,0
+Juan Carnwetensko,53,masc,0,140,203,1,0,155,1,3.1,0,0,3,0
+Jonas Roberto Franco,56,masc,2,130,256,1,0,142,1,0.6,1,1,1,0
+Quirino Nunes,48,masc,1,110,229,0,1,168,0,1.0,0,0,3,0
+Benedito Plínio Cuneouan Flesco de Pinheiro,58,masc,1,120,284,0,0,160,0,1.8,1,0,2,0
+Marcos Karl de Medeiros,58,masc,2,132,224,0,0,173,0,3.2,2,2,3,0
+Artur Ezequiel de Paranhos da Silva,60,masc,0,130,206,0,0,132,1,2.4,1,2,3,0
+Eugênio Roberto do Rio de Álvares,40,masc,0,110,167,0,0,114,1,2.0,1,0,3,0
+Cícero Igreja Ryeltey,60,masc,0,117,230,1,1,160,1,1.4,2,2,3,0
+Jonathas Cléber Tsuto,64,masc,2,140,335,0,1,158,0,0.0,2,0,2,0
+Edu Pemezason,43,masc,0,120,177,0,0,120,1,2.5,1,0,3,0
+Micael de Uchôa Teles,57,masc,0,150,276,0,0,112,1,0.6,1,1,1,0
+Rafael Martin de Drummond do Rio Júnior,55,masc,0,132,353,0,1,132,1,1.2,1,1,3,0
+Vanessa Fragoso,65,fem,0,150,225,0,0,114,0,1.0,1,3,3,0
+Andréia Mumiyan Pugu de Carvalho,61,fem,0,130,330,0,0,169,0,0.0,2,0,2,0
+Milton da Silva,58,masc,2,112,230,0,0,165,0,2.5,1,1,3,0
+Orlando Jeferson Mase Gize de Lins,50,masc,0,150,243,0,0,128,0,2.6,1,0,3,0
+Ricardo Martin Uopirner Júnior,44,masc,0,112,290,0,0,153,0,0.0,2,1,2,0
+Áureo Silvair de Moura Frazvro Trevisan,60,masc,0,130,253,0,1,144,1,1.4,2,1,3,0
+Mike Joaquim Negrão Cegazgocha,54,masc,0,124,266,0,0,109,1,2.2,1,1,3,0
+Isac Couto,50,masc,2,140,233,0,1,163,0,0.6,1,1,3,0
+Domingos Wagner da Nóbrega,41,masc,0,110,172,0,0,158,0,0.0,2,0,3,0
+Eliane da Silva Irngo de Pereira,51,fem,0,130,305,0,1,142,1,1.2,1,0,3,0
+Áureo Heron Rodrigues de Parreira,58,masc,0,128,216,0,0,131,1,2.2,1,3,3,0
+Heitor Wally de Aguiar,54,masc,0,120,188,0,1,113,0,1.4,1,1,3,0
+Plínio Avelino da Silva Iafa Neto,60,masc,0,145,282,0,0,142,1,2.8,1,2,3,0
+Arnaldo Jardim Guedes,60,masc,2,140,185,0,0,155,0,3.0,1,0,2,0
+Fagner Mano dos Santos,59,masc,0,170,326,0,0,140,1,3.4,0,0,3,0
+João Uemov da Silva Klublaoy,46,masc,2,150,231,0,1,147,0,3.6,1,0,2,0
+Eduardo Manuel Druzi,67,masc,0,125,254,1,1,163,0,0.2,1,2,3,0
+Jaziel Giuseppe de Oliveira,62,masc,0,120,267,0,1,99,1,1.8,1,2,3,0
+Marciano Piayabi,65,masc,0,110,248,0,0,158,0,0.6,2,2,1,0
+Eustáquio Henrique Amety Júnior,44,masc,0,110,197,0,0,177,0,0.0,2,1,2,0
+Reginaldo Ciro dos Santos,60,masc,0,125,258,0,0,141,1,2.8,1,1,3,0
+Osvaldo Omar de Alencar Fupe da Silva,58,masc,0,150,270,0,0,111,1,0.8,2,0,3,0
+Nathan Raí Tencyan,68,masc,2,180,274,1,0,150,1,1.6,1,0,3,0
+Ana Xilena Ernorno,62,fem,0,160,164,0,0,145,0,6.2,0,3,3,0
+José Frebizlyrnvic Razrre de Ayres,52,masc,0,128,255,0,1,161,1,0.0,2,1,3,0
+Luiz Gilson de Souza,59,masc,0,110,239,0,0,142,1,1.2,1,1,3,0
+Jéssica Érica de Junqueira Ribeiro,60,fem,0,150,258,0,0,157,0,2.6,1,2,3,0
+Marco Osvaldo da Silva,49,masc,2,120,188,0,1,139,0,2.0,1,3,3,0
+Alex de Torquato Gomes,59,masc,0,140,177,0,1,162,1,0.0,2,1,3,0
+Giovanni Marciano de Vieira,57,masc,2,128,229,0,0,150,0,0.4,1,1,3,0
+Batista Pubego Eduson,61,masc,0,120,260,0,1,140,1,3.6,1,1,3,0
+Wesley Modome Maciel Júnior,39,masc,0,118,219,0,1,140,0,1.2,1,0,3,0
+Maíra Hellen da Encarnação Goloiã,61,fem,0,145,307,0,0,146,1,1.0,1,0,3,0
+Luciano Avelino Aoão,56,masc,0,125,249,1,0,144,1,1.2,1,1,2,0
+Luciana dos Santos de Angola Borba,43,fem,0,132,341,1,0,136,1,3.0,1,0,3,0
+Jussara Valquíria de Jesus Penedo,62,fem,2,130,263,0,1,97,0,1.2,1,1,3,0
+Edinaldo Gomes,63,masc,0,130,330,1,0,132,1,1.8,2,3,3,0
+Anderson Raí Ocam Terceiro,65,masc,0,135,254,0,0,127,0,2.8,1,1,3,0
+Táles Chico Cloi,48,masc,0,130,256,1,0,150,1,0.0,2,2,3,0
+Rute Eiman,63,fem,0,150,407,0,0,154,0,4.0,1,3,3,0
+Simão Jackson Souto Bava Gutierrez,55,masc,0,140,217,0,1,111,1,5.6,0,0,3,0
+Hamilton Hilton Tiohiz Marinho de Simões,65,masc,3,138,282,1,0,174,0,1.4,1,1,2,0
+Kiara Gomes,56,fem,0,200,288,1,0,133,1,4.0,0,2,3,0
+Rodolfo Surrifoeson,54,masc,0,110,239,0,1,126,1,2.8,1,1,3,0
+Lucas de Pereira d'Ávila Neto,70,masc,0,145,174,0,1,125,1,2.6,0,0,3,0
+Mateus do Rio de Ramos,62,masc,1,120,281,0,0,103,0,1.4,1,1,3,0
+César Elano Vaz,35,masc,0,120,198,0,1,130,1,1.6,1,0,3,0
+Humberto Jesus de Tozetto Júnior,59,masc,3,170,288,0,0,159,0,0.2,1,0,3,0
+Alfredo de Toledo Couto,64,masc,2,125,309,0,1,131,1,1.8,1,0,3,0
+Jorge Silvair Jardim Jolcilvic Neto,47,masc,2,108,243,0,1,152,0,0.0,2,0,2,0
+Alessandre Danilo Calplaman Bloes de Alves,57,masc,0,165,289,1,0,124,0,1.0,1,3,3,0
+Adônis Cemon,55,masc,0,160,289,0,0,145,1,0.8,1,1,3,0
+Ângelo Ioem,64,masc,0,120,246,0,0,96,1,2.2,0,1,2,0
+Jackson de Oliveira da Paixão,70,masc,0,130,322,0,0,109,0,2.4,1,3,2,0
+Xerxes Rosa de Espanha dos Santos,51,masc,0,140,299,0,1,173,1,1.6,2,0,3,0
+Silvair Albino da Silva Júnior,58,masc,0,125,300,0,0,171,0,0.0,2,2,3,0
+Fabiano Abílio Apyl Dasio,60,masc,0,140,293,0,0,170,0,1.2,1,2,3,0
+Marcelo Ifirneov Borba Igreja,77,masc,0,125,304,0,0,162,1,0.0,2,3,2,0
+Frederico dos Santos,35,masc,0,126,282,0,0,156,1,0.0,2,0,3,0
+Ângelo Josiel da Silva Castelo,70,masc,2,160,269,0,1,112,1,2.9,1,1,3,0
+Valquíria Clara Puhi Seemo,59,fem,0,174,249,0,1,143,1,0.0,1,0,2,0
+David de Bueno Ezzelowo,64,masc,0,145,212,0,0,132,0,2.0,1,2,1,0
+Alan de Amorim da Silva,57,masc,0,152,274,0,1,88,1,1.2,1,1,3,0
+Márcio Eugênio Toiman de Madureira Branco,56,masc,0,132,184,0,0,105,1,2.1,1,1,1,0
+Ezequiel José Içue Ekez Neto,48,masc,0,124,274,0,0,166,0,0.5,1,0,3,0
+Arlete de Assis,56,fem,0,134,409,0,0,150,1,1.9,1,2,3,0
+Fagner Karl de Andrade Denobu Júnior,66,masc,1,160,246,0,1,120,1,0.0,1,3,1,0
+Geraldo Hilton da Silva,54,masc,1,192,283,0,0,195,0,0.0,2,1,3,0
+Luís João Dede Baku Júnior,69,masc,2,140,254,0,0,146,0,2.0,1,3,3,0
+Alisson Biramo,51,masc,0,140,298,0,1,122,1,4.2,1,3,3,0
+Augusto de Figueiredo,43,masc,0,132,247,1,0,143,1,0.1,1,4,3,0
+Keyla Plai,62,fem,0,138,294,1,1,106,0,1.9,1,3,2,0
+Márcio João Frizovocil,67,masc,0,100,299,0,0,125,1,0.9,1,2,2,0
+Wilson Ryne Cavalcante,59,masc,3,160,273,0,0,125,0,0.0,2,0,2,0
+Luan de Drummond Ungoli,45,masc,0,142,309,0,0,147,1,0.0,1,3,3,0
+Edivaldo de Souza,58,masc,0,128,259,0,0,130,1,3.0,1,2,3,0
+Bruno Epivic Tristão,50,masc,0,144,200,0,0,126,1,0.9,1,0,3,0
+Ingrid dos Santos,62,fem,0,150,244,0,1,154,1,1.4,1,0,2,0
+César Áureo da Silva,38,masc,3,120,231,0,1,182,1,3.8,1,0,3,0
+Heloísa Hellen do Amaral Lopes,66,fem,0,178,228,1,1,165,1,1.0,1,2,3,0
+João de Rezende,52,masc,0,112,230,0,1,160,0,0.0,2,1,2,0
+Altino da Silva Pinto,53,masc,0,123,282,0,1,95,1,2.0,1,2,3,0
+Rosana Úrsula de Britto do Amaral,63,fem,0,108,269,0,1,169,1,1.8,1,2,2,0
+Gustavo Jaziel dos Santos de Bueno,54,masc,0,110,206,0,0,108,1,0.0,1,1,2,0
+Willian Hélio Oyarize,66,masc,0,112,212,0,0,132,1,0.1,2,1,2,0
+Denise Celeste Uesson Weiss de Lisboa,55,fem,0,180,327,0,2,117,1,3.4,1,0,2,0
+Jair Fragoso,49,masc,2,118,149,0,0,126,0,0.8,2,3,2,0
+Júlio Leonardo de Torquato,54,masc,0,122,286,0,0,116,1,3.2,1,2,2,0
+Marco de Pereira,56,masc,0,130,283,1,0,103,1,1.6,0,0,3,0
+Sandro de Souza,46,masc,0,120,249,0,0,144,0,0.8,2,0,3,0
+Igor Hugo da Silva de Lemos,61,masc,3,134,234,0,1,145,0,2.6,1,2,2,0
+Micael Jairo Tiniagiã de Oliveira Onukipri Júnior,67,masc,0,120,237,0,1,71,0,1.0,1,0,2,0
+Estevão de Vieira Suinonão,58,masc,0,100,234,0,1,156,0,0.1,2,1,3,0
+João Décio de Ortega,47,masc,0,110,275,0,0,118,1,1.0,1,1,2,0
+Valter de Trindade,52,masc,0,125,212,0,1,168,0,1.0,2,2,3,0
+Kauê Áureo de Viana,58,masc,0,146,218,0,1,105,0,2.0,1,1,3,0
+Walter Michel Ononyrnson Jardim,57,masc,1,124,261,0,1,141,0,0.3,2,0,3,0
+Anne Quitéria Yoa,58,fem,1,136,319,1,0,152,0,0.0,2,2,2,0
+Dionísio Denis Lirnvu Usygrorn,61,masc,0,138,166,0,0,125,1,3.6,1,1,2,0
+Marcos de Ramos Ispy Júnior,42,masc,0,136,315,0,1,125,1,1.8,1,0,1,0
+Robert Phebi,52,masc,0,128,204,1,1,156,1,1.0,1,0,0,0
+Walter de Gusmões,59,masc,2,126,218,1,1,134,0,2.2,1,1,1,0
+Jonathas Vremiã Greimes Arnu,40,masc,0,152,223,0,1,181,0,0.0,2,0,3,0
+Bento Ângelo Achy Plainbeoson,61,masc,0,140,207,0,0,138,1,1.9,2,1,3,0
+Xerxes Kawuvic,46,masc,0,140,311,0,1,120,1,1.8,1,2,3,0
+Ademar de Fonseca,59,masc,3,134,204,0,1,162,0,0.8,2,2,2,0
+Davi Rosa de Guimarães,57,masc,1,154,232,0,0,164,0,0.0,2,1,2,0
+Edson Breidião,57,masc,0,110,335,0,1,143,1,3.0,1,1,3,0
+Zilda da Silva Terceiro,55,fem,0,128,205,0,2,130,1,2.0,1,1,3,0
+Ademar Félix Gimam,61,masc,0,148,203,0,1,161,0,0.0,2,1,3,0
+Eric Feyloan,58,masc,0,114,318,0,2,140,0,4.4,0,3,1,0
+Cristina Isabela dos Santos de Barbosa Mercado,58,fem,0,170,225,1,0,146,1,2.8,1,2,1,0
+Gustavo de Muniz Terceiro,67,masc,2,152,212,0,0,150,0,0.8,1,0,3,0
+Helder Pirama,44,masc,0,120,169,0,1,144,1,2.8,0,0,1,0
+Anderson Klein de Albuquerque,63,masc,0,140,187,0,0,144,1,4.0,2,2,3,0
+Cíntia Raíssa da Silva,63,fem,0,124,197,0,1,136,1,0.0,1,0,2,0
+Nicolas Victor de Lacerda Martinez,59,masc,0,164,176,1,0,90,0,1.0,1,2,1,0
+Susan Cibele das Neves,57,fem,0,140,241,0,1,123,1,0.2,1,0,3,0
+César Leandro Netre de Cardozo,45,masc,3,110,264,0,1,132,0,1.2,1,0,3,0
+Moisés Alisson Tristão,68,masc,0,144,193,1,1,141,0,3.4,1,2,3,0
+Marciano Oroe,57,masc,0,130,131,0,1,115,1,1.2,1,1,3,0
+Susan Wilma Vaprety Oposon Martinez,57,fem,1,130,236,0,0,174,0,0.0,1,1,2,0
